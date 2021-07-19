@@ -2,7 +2,9 @@
 
 <h2> About me</h2>
 <p>
- 💻 Je m'appelle Emmanuel SCELLES alias Thanos974, je suis un Bachelor concepteur et developpeur d'application C#.Net spéciliasé sur Unity 3D et Blender.
+ 💻 Je m'appelle Emmanuel SCELLES alias Thanos974, je suis un Bachelor concepteur et developpeur d'application C#.Net spéciliasé sur Unity 3D et Blender.<br/>
+ Le domaine du jeux vidéo m'attire depuis l'enfance et pouvoir aujourd'hui réalisé les jeux auquels je pouvais jouer plus jeune est simplement épanouissant! 😁✌<br/>
+ Développé également des site web et web mobile font aussi parti de mes compétences.
 </p>
 
 
