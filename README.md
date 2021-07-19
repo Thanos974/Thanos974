@@ -1,39 +1,67 @@
-<h1 align="center"> Welcome Everybody 👋</h3>
+<h1 align="center"> Welcome Everybody <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
-<p align="center">
+<h2> About me</h2>
+<p>
  💻 Je m'appelle Emmanuel SCELLES alias Thanos974, je suis un Bachelor concepteur et developpeur d'application C#.Net spéciliasé sur Unity 3D et Blender.
 </p>
 
-<!-- Socials (Icons from https://icons8.com/) -->
-<p align="center">
-  <a href="mailto:escelles@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail">
-  <a href="https://www.linkedin.com/in/thanos974/"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" title="linkedin">
-  <a href="https://twitter.com/Thanos_974"><img src="https://img.icons8.com/plasticine/96/000000/twitter--v2.png" title="twitter">
-</p>
 
-<!-- Gifs found on GIPHY made by @devrock -->
-<p align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" title="node">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-</p>
 
-<!-- Other Tools -->
+<h2 align="center">How to reach me ? <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
+ 
 <p align="center">
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50px" title="mongodb"></span>
-  <span><img src="https://img.icons8.com/color/96/000000/react-native.png" width="50px" title="express"></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" title="postgresql"></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50px" title="npm"></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="50px" title="bootstrap"></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" title="git"></span>
-  <span><img src="https://img.icons8.com/color/96/000000/blender-3d.png" width="50px" title="blender"/><span>
-  <span><img src="https://www.ambient-it.net/wp-content/uploads/2018/09/unity-175.png" width="50px" title="unity3D"<span>
-</p>
+ <a href="www.linkedin.com/in/thanos974"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+ <a href="https://twitter.com/Thanos_974"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>
+</p> 
+   
+<h2>My Stack :man_technologist:</h2>
+  
+<p>
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
+ <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+ <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+ <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+ <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+ <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+ <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  
 
+  
+ </p>
+
+<h2 align="center">Gaming</h2> 
+<p align="center">
+ <img src="https://img.icons8.com/fluent/48/000000/unity.png"/>
+ <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
+ <img src="https://img.icons8.com/fluent/48/000000/steam.png"/>
+ 
+</p>
+   
+
+<h2 align="right">Tools</h2> 
+<p align="right">
+ <img src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png"/>
+ <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+ <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
+ <img src="https://img.icons8.com/color/48/000000/chrome--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+ <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+</p>  
+
+<h2 align="center">Github Stats :bar_chart:</h2>
+   
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanos974&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
    
 <p align="center">
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Thanos974&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
 </p>
+   
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Thanos974/count.svg" />
+</p>
+
+
