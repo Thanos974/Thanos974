@@ -1,20 +1,11 @@
 <h1 align="center"> Welcome Everybody <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
-<h2> About me</h2>
+<h2> A propos de moi! <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
 <p>
- 💻 Je m'appelle Emmanuel SCELLES alias Thanos974, je suis un Bachelor concepteur et developpeur d'application C#.Net spéciliasé sur Unity 3D et Blender.<br/>
- Le domaine du jeux vidéo m'attire depuis l'enfance et pouvoir aujourd'hui réalisé les jeux auquels je pouvais jouer plus jeune est simplement épanouissant! 😁✌<br/>
+ 💻 Je poursuis actuellement un Bachelor de Developpeur d'Application C#.Net, je me suis spéciliasé sur Unity 3D et Blender.<br/>
+ Le domaine du jeux vidéo m'attire depuis l'enfance et aujourd'hui  pouvoir réalisé les jeux auquels je pouvais jouer plus jeune est simplement épanouissant! 😁✌<br/>
  Développé également des site web et web mobile font aussi parti de mes compétences.
 </p>
-
-
-
-<h2 align="center">How to reach me ? <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
- 
-<p align="center">
- <a href="www.linkedin.com/in/thanos974"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
- <a href="https://twitter.com/Thanos_974"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>
-</p> 
    
 <h2>My Stack :man_technologist:</h2>
   
@@ -26,18 +17,14 @@
  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  
-
-  
- </p>
+ <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+</p>
 
 <h2 align="center">Gaming</h2> 
 <p align="center">
  <img src="https://img.icons8.com/fluent/48/000000/unity.png"/>
  <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
  <img src="https://img.icons8.com/fluent/48/000000/steam.png"/>
- 
 </p>
    
 
@@ -50,6 +37,12 @@
  <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 </p>  
+
+<h2 align="center">How to reach me ? <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
+ 
+<p align="center">
+ <a href="www.linkedin.com/in/thanos974"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+</p> 
 
 <h2 align="center">Github Stats :bar_chart:</h2>
    
