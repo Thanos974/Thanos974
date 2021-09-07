@@ -17,6 +17,7 @@
  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+ <img src="https://img.icons8.com/color/48/000000/symfony.png"/>
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 </p>
 
