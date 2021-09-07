@@ -2,9 +2,9 @@
 
 <h2> A propos de moi! <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
 <p>
- 💻 Je poursuis actuellement un Bachelor de Developpeur d'Application C#.Net, je me suis spéciliasé sur Unity 3D et Blender.<br/>
- Le domaine du jeux vidéo m'attire depuis l'enfance et aujourd'hui  pouvoir réalisé les jeux auquels je pouvais jouer plus jeune est simplement épanouissant! 😁✌<br/>
- Développé également des site web et web mobile font aussi parti de mes compétences.
+ 💻 Je poursuis actuellement un Bachelor de Developpeur d'Application C#.Net, je me suis spéciliasé sur Unity 3D mais j'ai récemment découvert une sensibilité pour Symfony.<br/>
+ Le domaine du jeux vidéo est mon sanctuaire et aujourd'hui pouvoir réalisé les jeux est tout simplement un bonheur ! 😁✌<br/>
+ Développer également des sites web et application mobile font partis intégrante de mes compétences.
 </p>
    
 <h2>My Stack :man_technologist:</h2>
@@ -26,7 +26,7 @@
 <p align="center">
  <img src="https://img.icons8.com/fluent/48/000000/unity.png"/>
  <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
- <img src="https://img.icons8.com/fluent/48/000000/steam.png"/>
+
 </p>
    
 
@@ -35,7 +35,7 @@
  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png"/>
  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
  <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
- <img src="https://img.icons8.com/color/48/000000/chrome--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/brave-web-browser.png"/>
  <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 </p>  
