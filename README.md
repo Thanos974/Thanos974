@@ -1,46 +1,45 @@
-<h1 align="center"> Welcome Everybody <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<h1 align="center"> Welcome Everybody</h3>
+<div align="center">
+ <img src="https://c.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif">
+</div>      
 
-<h2> A propos de moi! <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
+<h2 align="center"> A propos de moi! <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
 <p>
- 💻 Je poursuis actuellement un Bachelor de Developpeur d'Application C#.Net, je me suis spéciliasé sur Unity 3D mais j'ai récemment découvert une sensibilité pour Symfony.<br/>
+ 💻 Je poursuis actuellement un Bachelor de Developpeur d'Application Python, j'ai choisi ce langage pour sa polyvalence et sa facilité d'utilisation notamment sur Pygame, Godot Engine et Blender que j'affectionne tout particulièrement dans mes développements de jeux vidéo.<br/>
  Le domaine du jeux vidéo est mon sanctuaire et aujourd'hui pouvoir réalisé les jeux est tout simplement un bonheur ! 😁✌<br/>
- Développer également des sites web et application mobile font partis intégrante de mes compétences.
+ Développer également des sites web et applications mobiles font partis intégrante de mes compétences.
 </p>
    
-<h2>My Stack :man_technologist:</h2>
-  
-<p>
+<h2 align="center">My Stack :man_technologist:</h2>  
+<p align="center">
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
- <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
- <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
- <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
- <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
- <img src="https://img.icons8.com/color/48/000000/symfony.png"/>
- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+ <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+ <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+ <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </p>
 
 <h2 align="center">Gaming</h2> 
 <p align="center">
  <img src="https://img.icons8.com/fluent/48/000000/unity.png"/>
  <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
-
+ <img src="https://img.icons8.com/nolan/48/unreal-engine.png"/>
 </p>
-   
 
-<h2 align="right">Tools</h2> 
-<p align="right">
- <img src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png"/>
+
+<h2 align="center">Tools</h2> 
+<p align="center">
  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
- <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
+ <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
  <img src="https://img.icons8.com/color/48/000000/brave-web-browser.png"/>
  <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
 </p>  
 
-<h2 align="center">How to reach me ? <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
+<h2 align="center">Où me trouver ? <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
  
 <p align="center">
  <a href="www.linkedin.com/in/thanos974"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
