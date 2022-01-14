@@ -18,6 +18,8 @@ Je développe également des sites web et applications mobiles font partis inté
  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_django_icon_130645.png">
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </p>
 
 <h2 align="center">Gaming</h2> 
