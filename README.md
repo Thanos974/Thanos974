@@ -3,9 +3,8 @@
 
 <h2 align="center"> A propos de moi! <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
 <p>
- 💻 Je poursuis actuellement un Bachelor de Developpeur d'Application Python, j'ai choisi ce langage pour sa polyvalence et sa facilité d'utilisation notamment sur Pygame, Godot  Engine et Blender que j'affectionne tout particulièrement dans mes développements de jeux vidéo.<br/>
-Le domaine du jeux vidéo est mon sanctuaire et aujourd'hui pouvoir réalisé des jeux est un accomplissement personnel !<br/>
-Je développe également des sites web et applications mobiles font partis intégrante de mes compétences.
+ 💻 Je poursuis actuellement un Bachelor de Developpeur d'Application Python.<br/>
+Je développe également des sites web et applications mobiles font partis intégrante de mes compétences. Je souahiterais m'orienté vers le domaine de la cybersécurité.
 </p>
    
 <h2 align="center">My Stack :man_technologist:</h2>  
