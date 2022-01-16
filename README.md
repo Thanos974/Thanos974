@@ -20,14 +20,14 @@ Je développe également des sites web et applications mobiles font partis inté
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </p>
-
+<!-- 
 <h2 align="center">Gaming</h2> 
 <p align="center">
  <img src="https://img.icons8.com/fluent/48/000000/unity.png"/>
  <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
  <img src="https://img.icons8.com/nolan/48/unreal-engine.png"/>
 </p>
-
+ -->
 
 <h2 align="center">Tools</h2> 
 <p align="center">
