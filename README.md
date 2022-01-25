@@ -13,7 +13,6 @@ Je développe également des sites web et applications mobiles font partis inté
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
- <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img src="https://img.icons8.com/color/48/000000/dart.png"/>
  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
