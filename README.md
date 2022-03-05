@@ -20,14 +20,7 @@ Je développe également des sites web et applications mobiles font partis inté
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </p>
-<!-- 
-<h2 align="center">Gaming</h2> 
-<p align="center">
- <img src="https://img.icons8.com/fluent/48/000000/unity.png"/>
- <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
- <img src="https://img.icons8.com/nolan/48/unreal-engine.png"/>
-</p>
- -->
+
 
 <h2 align="center">Tools</h2> 
 <p align="center">
@@ -36,7 +29,7 @@ Je développe également des sites web et applications mobiles font partis inté
  <img src="https://img.icons8.com/color/48/000000/brave-web-browser.png"/>
  <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
- <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/figma.png"/>
 </p>  
 
 <h2 align="center">Où me trouver ? <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
