@@ -8,10 +8,10 @@ Je développe également des sites web et applications mobiles font partis inté
 </p>
 
 <p align="center">
-<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Thanos974&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
+<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Thanos974&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanos974&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanos974&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
    
    
 <h2 align="center">My Stack :man_technologist:</h2>  
