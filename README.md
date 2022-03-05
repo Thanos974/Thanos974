@@ -26,9 +26,6 @@ Je développe également des sites web et applications mobiles font partis inté
 <p align="center">
  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
  <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
- <img src="https://img.icons8.com/color/48/000000/brave-web-browser.png"/>
- <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
- <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/figma.png"/>
 </p>  
 
