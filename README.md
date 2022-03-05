@@ -6,6 +6,13 @@
  💻 Je poursuis actuellement un Bachelor de Developpeur d'Application Python.<br/>
 Je développe également des sites web et applications mobiles font partis intégrante de mes compétences. Je souahiterais m'oriente dans le mobile avec Flutter que j'affectionne particulièrement.
 </p>
+
+<p align="center">
+<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Thanos974&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
+</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanos974&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+   
    
 <h2 align="center">My Stack :man_technologist:</h2>  
 <p align="center">
@@ -37,11 +44,8 @@ Je développe également des sites web et applications mobiles font partis inté
 
 <h2 align="center">Github Stats :bar_chart:</h2>
    
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanos974&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-   
-<p align="center">
-<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Thanos974&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
-</p>
+
+
    
 <!-- <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p> -->
 
