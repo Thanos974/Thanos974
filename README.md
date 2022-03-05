@@ -7,8 +7,8 @@
 Je développe également des sites web et applications mobiles font partis intégrante de mes compétences. Je souahiterais m'oriente dans le mobile avec Flutter que j'affectionne particulièrement.
 </p>
 
-<p align="center">
-<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Thanos974&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
+<p align="left">
+<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Thanos974&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
 </p>
 
 <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanos974&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
