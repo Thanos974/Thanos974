@@ -1,4 +1,4 @@
-<img src="https://document-export.canva.com/Zt4yU/DAEevbZt4yU/503/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20210926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210926T015002Z&X-Amz-Expires=71664&X-Amz-Signature=499dc3e6ff5b6bdded05d63ba3caf8afc0a42a2e9f991ec89037858b42cb5ce0&X-Amz-SignedHeaders=host&response-expires=Sun%2C%2026%20Sep%202021%2021%3A44%3A26%20GMT">
+
   
 
 <h2 align="center"> A propos de moi! <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
