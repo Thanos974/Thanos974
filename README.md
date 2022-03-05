@@ -1,7 +1,5 @@
-
-  
-
 <h2 align="center"> A propos de moi! <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
+
 <p>
  💻 Je poursuis actuellement un Bachelor de Developpeur d'Application Python.<br/>
 Je développe également des sites web et applications mobiles font partis intégrante de mes compétences. Je souahiterais m'oriente dans le mobile avec Flutter que j'affectionne particulièrement.
@@ -35,15 +33,10 @@ Je développe également des sites web et applications mobiles font partis inté
  <img src="https://img.icons8.com/color/48/000000/figma.png"/>
 </p>  
 
-<h2 align="center">Où me trouver ? <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
-
 <h2 align="center">Github Stats :bar_chart:</h2>
    
 <!-- <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p> -->
 
-<div align="center">
- <img src="https://c.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif" alt="python">
-</div>    
 
 <p align="center"> 
   Visitor count<br>
