@@ -4,7 +4,7 @@
 <h2 align="center"> A propos de moi! <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h2>
 <p>
  💻 Je poursuis actuellement un Bachelor de Developpeur d'Application Python.<br/>
-Je développe également des sites web et applications mobiles font partis intégrante de mes compétences. Je souahiterais m'orienté vers le domaine de la cybersécurité.
+Je développe également des sites web et applications mobiles font partis intégrante de mes compétences. Je souahiterais m'oriente dans le mobile avec Flutter que j'affectionne particulièrement.
 </p>
    
 <h2 align="center">My Stack :man_technologist:</h2>  
