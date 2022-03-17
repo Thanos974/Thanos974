@@ -1,4 +1,4 @@
-<h1 align="center">Thanos Code </h1><img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px>
+<h1 align="center">Thanos Code <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h1>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/thanos974/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
