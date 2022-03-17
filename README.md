@@ -38,6 +38,11 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
 
 ### :fire: Recent Github Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#10](https://github.com/Thanos974/BKT-KITE-TEAM/pull/10) in [Thanos974/BKT-KITE-TEAM](https://github.com/Thanos974/BKT-KITE-TEAM)
+2. 💪 Opened PR [#10](https://github.com/Thanos974/BKT-KITE-TEAM/pull/10) in [Thanos974/BKT-KITE-TEAM](https://github.com/Thanos974/BKT-KITE-TEAM)
+3. 🎉 Merged PR [#9](https://github.com/Thanos974/BKT-KITE-TEAM/pull/9) in [Thanos974/BKT-KITE-TEAM](https://github.com/Thanos974/BKT-KITE-TEAM)
+4. 💪 Opened PR [#9](https://github.com/Thanos974/BKT-KITE-TEAM/pull/9) in [Thanos974/BKT-KITE-TEAM](https://github.com/Thanos974/BKT-KITE-TEAM)
+<!--END_SECTION:activity-->
 
 
 ### :zap: My daily routine :
