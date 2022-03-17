@@ -1,18 +1,15 @@
 # Thanos Code <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px>
 <div align="center" id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/thanos974/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Thanos_974">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- <img src="https://komarev.com/ghpvc/?username=Thanos974&style=flat-square&color=blue" alt=""/>
 </div>
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thanos974&style=flat-square&color=blue" alt=""/>
+</div>
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
 </div>
@@ -39,24 +36,27 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
  <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
-### My daily routine :
+<!--START_SECTION:activity-->
+
+### :zap: My daily routine :
 
 ```mermaid
   graph TD;
       Code-->Eat;
-      Eat-->Gaming;
-      Gaming-->Sleep;
+      Code-->Gaming;
+      Gaming-->Eat;
+      Eat-->Sleep;
       Sleep-->Code;
 ```
 
-### Connect with me:
+### :writing_hand: Connect with me:
 
 <a href="https://www.linkedin.com/in/thanos974/">
  <img alt="linkedin" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
 
-### ⭐ Github Stats :bar_chart: 
+### :bar_chart: Github Stats 
 
 <a href="https://github.com/Thanos974/Thanos974">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thanos974&theme=dark&show_icons=true)](https://github.com/Thanos974)"
