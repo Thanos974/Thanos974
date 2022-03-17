@@ -29,6 +29,10 @@ Je développe également des sites web et applications mobiles font partis inté
  <img src="https://img.icons8.com/color/48/000000/figma.png"/>
 </p>  
 
+### Connect with me:
+![img_contact](./imgglobe-light.svg)(https://www.linkedin.com/in/thanos974/)
+![img_contact](./imgglobe-light.svg)
+
 <h2 align="center">Github Stats :bar_chart:</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanos974&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
@@ -37,7 +41,6 @@ Je développe également des sites web et applications mobiles font partis inté
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Thanos974&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
 </p>
    
-<!-- <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p> -->
 
 
 <p align="center"> 
