@@ -30,8 +30,10 @@ Je développe également des sites web et applications mobiles font partis inté
 </p>  
 
 ### Connect with me:
-![img_contact](./imgglobe-light.svg)(https://www.linkedin.com/in/thanos974/)
-![img_contact](./imgglobe-light.svg)
+![img_contact](./img/globe-light.svg)(https://www.linkedin.com/in/thanos974/)
+![img_contact](./img/globe-light.svg)
+![img_contact](./img/globe-dark.svg)
+
 
 <h2 align="center">Github Stats :bar_chart:</h2>
 
