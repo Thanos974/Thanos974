@@ -54,7 +54,7 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
       Sleep-->Code;
 ```
 
-### :bar_chart: Github Stats 
+### :zap: Github Stats 
 
 <a href="https://github.com/Thanos974/Thanos974">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thanos974&theme=dark&show_icons=true)](https://github.com/Thanos974)"
