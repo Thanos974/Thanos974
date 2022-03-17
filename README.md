@@ -13,6 +13,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
 </div>
+<br />
 <p align="center">
 Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le département de la Seine-et-Marne dans le 77. J'apprends récemment Flutter pour le mobile avec JS et React pour le front-end, Python pour la partie back-end avec Django.  💻 
 </p>
