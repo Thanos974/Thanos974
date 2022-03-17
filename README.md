@@ -54,13 +54,6 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
       Sleep-->Code;
 ```
 
-### :writing_hand: Connect with me:
-
-<a href="https://www.linkedin.com/in/thanos974/">
- <img alt="linkedin" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-
-
 ### :bar_chart: Github Stats 
 
 <a href="https://github.com/Thanos974/Thanos974">
