@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Thanos Code <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px>
 
+=======
+<h1 align="center">Thanos Code <img src="https://emojis.slackmojis.com/emojis/images/1558697023/5740/thanos.gif?1558697023" width=30px></h1>
+>>>>>>> 2a86f1e1a503ae448203eb0a7365c67b159d34e8
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/thanos974/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,6 +18,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
 </div>
+<br />
 <p align="center">
 Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le département de la Seine-et-Marne dans le 77. J'apprends récemment Flutter pour le mobile avec JS et React pour le front-end, Python pour la partie back-end avec Django.  💻 
 </p>
@@ -35,8 +40,12 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
  <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
+<<<<<<< HEAD
 ### :fire: Recent Github Activity
 
+=======
+### 🔥 Recent Github Activity
+>>>>>>> 2a86f1e1a503ae448203eb0a7365c67b159d34e8
 <!--START_SECTION:activity-->
 
 1. 🎉 Merged PR [#10](https://github.com/Thanos974/BKT-KITE-TEAM/pull/10) in [Thanos974/BKT-KITE-TEAM](https://github.com/Thanos974/BKT-KITE-TEAM)
@@ -45,7 +54,12 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
 4. 💪 Opened PR [#9](https://github.com/Thanos974/BKT-KITE-TEAM/pull/9) in [Thanos974/BKT-KITE-TEAM](https://github.com/Thanos974/BKT-KITE-TEAM)
 <!--END_SECTION:activity-->
 
+<<<<<<< HEAD
 ### :zap: My daily routine :
+=======
+
+### 💻 My daily routine :
+>>>>>>> 2a86f1e1a503ae448203eb0a7365c67b159d34e8
 
 ```mermaid
   graph TD;
@@ -56,7 +70,11 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
       Sleep-->Code;
 ```
 
+<<<<<<< HEAD
 ### :zap: Github Stats
+=======
+### ⚡ Github Stats 
+>>>>>>> 2a86f1e1a503ae448203eb0a7365c67b159d34e8
 
 <a href="https://github.com/Thanos974/Thanos974">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thanos974&theme=dark&show_icons=true)](https://github.com/Thanos974)"
