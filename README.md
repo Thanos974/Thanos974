@@ -39,6 +39,7 @@ Je développe également des sites web et applications mobiles font partis inté
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanos974&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
+###ManuCode's Github Stats
 <p align="center">
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Thanos974&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
 </p>
