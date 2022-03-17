@@ -17,8 +17,6 @@
 Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le département de la Seine-et-Marne dans le 77. J'apprends récemment Flutter pour le mobile avec JS et React pour le front-end, Python pour la partie back-end avec Django.  💻 
 </p>
 
-<!--[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/company/thanos974/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/company/thanos974/#gh-dark-mode-only)-->
    
 ## 🛠️ Languages & Tools
 <p>
@@ -38,9 +36,13 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
 
 ### :fire: Recent Github Activity
 <!--START_SECTION:activity-->
-
-
+1. 🎉 Merged PR [#10](https://github.com/Thanos974/BKT-KITE-TEAM/pull/10) in [Thanos974/BKT-KITE-TEAM](https://github.com/Thanos974/BKT-KITE-TEAM)
+2. 💪 Opened PR [#10](https://github.com/Thanos974/BKT-KITE-TEAM/pull/10) in [Thanos974/BKT-KITE-TEAM](https://github.com/Thanos974/BKT-KITE-TEAM)
+3. 🎉 Merged PR [#9](https://github.com/Thanos974/BKT-KITE-TEAM/pull/9) in [Thanos974/BKT-KITE-TEAM](https://github.com/Thanos974/BKT-KITE-TEAM)
+4. 💪 Opened PR [#9](https://github.com/Thanos974/BKT-KITE-TEAM/pull/9) in [Thanos974/BKT-KITE-TEAM](https://github.com/Thanos974/BKT-KITE-TEAM)
 <!--END_SECTION:activity-->
+
+
 ### :zap: My daily routine :
 
 ```mermaid
@@ -52,14 +54,7 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
       Sleep-->Code;
 ```
 
-### :writing_hand: Connect with me:
-
-<a href="https://www.linkedin.com/in/thanos974/">
- <img alt="linkedin" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-
-
-### :bar_chart: Github Stats 
+### :zap: Github Stats 
 
 <a href="https://github.com/Thanos974/Thanos974">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thanos974&theme=dark&show_icons=true)](https://github.com/Thanos974)"
