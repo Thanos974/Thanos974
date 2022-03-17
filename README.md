@@ -34,7 +34,7 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
  <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
-### :fire: Recent Github Activity
+### 🔥 Recent Github Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#10](https://github.com/Thanos974/BKT-KITE-TEAM/pull/10) in [Thanos974/BKT-KITE-TEAM](https://github.com/Thanos974/BKT-KITE-TEAM)
 2. 💪 Opened PR [#10](https://github.com/Thanos974/BKT-KITE-TEAM/pull/10) in [Thanos974/BKT-KITE-TEAM](https://github.com/Thanos974/BKT-KITE-TEAM)
@@ -43,7 +43,7 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
 <!--END_SECTION:activity-->
 
 
-### :zap: My daily routine :
+### 💻 My daily routine :
 
 ```mermaid
   graph TD;
@@ -54,7 +54,7 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
       Sleep-->Code;
 ```
 
-### :zap: Github Stats 
+### ⚡ Github Stats 
 
 <a href="https://github.com/Thanos974/Thanos974">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thanos974&theme=dark&show_icons=true)](https://github.com/Thanos974)"
