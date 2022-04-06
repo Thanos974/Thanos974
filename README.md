@@ -63,8 +63,6 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
 ```
 
 
-### :zap: Github Stats
-
 ### ⚡ Github Stats 
 
 
