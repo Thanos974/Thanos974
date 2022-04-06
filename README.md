@@ -36,8 +36,6 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
  <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
-### :fire: Recent Github Activity
-
 ### 🔥 Recent Github Activity
 
 <!--START_SECTION:activity-->
