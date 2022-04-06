@@ -47,9 +47,6 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
 <!--END_SECTION:activity-->
 
 
-### :zap: My daily routine :
-
-
 ### 💻 My daily routine :
 
 
