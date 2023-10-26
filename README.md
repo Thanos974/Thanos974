@@ -27,7 +27,7 @@ Je suis Emmanuel, développeur web et web mobile. J'habite en France dans le dé
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
- <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+ <img src="https://icones8.fr/icon/rY6agKizO9eb/vue-js"/> 
  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_django_icon_130645.png">
